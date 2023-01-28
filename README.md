@@ -5,7 +5,7 @@ NPL.load("npl_packages/paracraft/")
 ```
 mkdir npl_packages
 cd npl_packages
-git clone https://github.com/NPLPackages/paracraft
+git clone https://github.com/scarlett1130/paracraft
 ```
 
-> For more information, please see [wiki](https://github.com/NPLPackages/paracraft/wiki)
+> For more information, please see [wiki](https://github.com/scarlett1130/paracraft/wiki)
